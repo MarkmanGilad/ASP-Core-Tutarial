@@ -25,7 +25,7 @@ namespace CoreAppNoAuth.Controllers
         {
             //return View("Privacy");
             return View();
-        }
+         }
 
         public IActionResult GiladPage()
         {
